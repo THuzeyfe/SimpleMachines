@@ -1,2 +1,2 @@
-from .lever import lever
-from .pulley import pulley
+from .leverClass import lever
+from .pulleyClass import pulley

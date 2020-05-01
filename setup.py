@@ -8,7 +8,9 @@
 from setuptools import setup
 
 setup(name='SimpleMachines',
-      version='1.0',
+      version='1.2',
       description='THis package help people who work with basic calculations of simple machines',
       packages=['SimpleMachines'],
+      author='Taha Huzeyfe Aktas',
+      author_email='taha.huzeyfe@gmail.com',
       zip_safe=False)

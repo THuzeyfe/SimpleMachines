@@ -1,4 +1,4 @@
-from SimpleMachines import SimpleMachine
+from .SimpleMachines import SimpleMachine
 
 class lever(SimpleMachine):
     
